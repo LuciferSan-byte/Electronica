@@ -1,4 +1,4 @@
-# P9B — Convertor Binar → Cod Gray cu TTL din BC547
+# P17 — Convertor Binar → Cod Gray cu TTL din BC547
 
 ## Descriere
 Extensie a proiectului #9 — numărătorul binar 6 biți.
